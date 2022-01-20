@@ -1,4 +1,4 @@
 import my_derived_obj
 
-x = my_derived_MyDerivedObj()
+x = my_derived_obj.MyDerivedObj()
 print(x)
